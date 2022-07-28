@@ -7,6 +7,6 @@
 <title>intro page</title>
 </head>
 <body>
-	This page is the introduction of DEMO WEB SITE
+	This page is the introduction of DEMO WEB SITE. 변경완료.
 </body>
 </html>
